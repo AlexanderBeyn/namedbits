@@ -1,5 +1,7 @@
 # NamedBits
 
+![run tests](https://github.com/AlexanderBeyn/namedbits/actions/workflows/test.yml/badge.svg)
+
 `namedbits` is a TypeScript/JavaScript library implementing a bit field, with named bits for easier access.
 
 ## Installation
